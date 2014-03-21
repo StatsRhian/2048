@@ -379,21 +379,21 @@ hr {
     font-size: 0px; }
   .tile.tile-512 .tile-inner {
     background: #4da66d;
-    background-image: url("../im/mark.jpg");
+    background-image: url("../im/mark.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-1024 .tile-inner {
     background: #89a9d7;
-    background-image: url("../im/jeddy.jpg");
+    background-image: url("../im/jeddy.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-2048 .tile-inner {
     background: #c76d5c;
-    background-image: url("../im/jon.jpg");
+    background-image: url("../im/jon.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
