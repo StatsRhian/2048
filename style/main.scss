@@ -344,17 +344,17 @@ hr {
                    #89a9d7 true, // 1024
                    #c76d5c true; // 2048
 
-   $tile-stori:  url('../im/rob.png'), // 2 - Rob
-                   url('../im/emma.png'), // 4 - Emma
-                   url('../im/tom.png'), // 8 - Tom
-                   url('../im/judd.png'), // 16 - Judd
-                   url('../im/hugo.png'), // 32 - Hugo
-                   url('../im/rhian.png'), // 64 - Rhian
-                   url('../im/ben.png'), // 128 - Ben
-                   url('../im/emma.png'), // 256 - Emma
-                   url('../im/kevin.png'), // 512 - Kevin
-                   url('../im/idris.png'), // 1024 - Idris
-                   url('../im/jon.png'); // 2048 - Jon
+   $tile-stori:  url('../im/ben.jpg'), // 2 - Ben
+                   url('../im/rhian.jpg'), // 4 - Rhian
+                   url('../im/rob.jpg'), // 8 - Rob
+                   url('../im/hugo.jpg'), // 16 - Hugo
+                   url('../im/emma.jpg'), // 32 - Emma
+                   url('../im/tom.jpg'), // 64 - Tom
+                   url('../im/judd.jpg'), // 128 - Judd
+                   url('../im/dave.jpg'), // 256 - Dave
+                   url('../im/mark.jpg'), // 512 - Mark Bell
+                   url('../im/jeddy.jpg'), // 1024 - Jeddy
+                   url('../im/jon.jpg'); // 2048 - Jon
 
   // Build tile colors
   @while $exponent <= $limit {
