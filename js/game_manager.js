@@ -156,7 +156,7 @@ GameManager.prototype.move = function (direction) {
     this.addRandomTile();
 
     if (!this.movesAvailable()) {
-      this.over = true; // Game over!
+      this.over = true; // Maybe you arn't STOR-i material after all...
     }
 
     this.actuate();
