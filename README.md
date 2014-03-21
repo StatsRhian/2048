@@ -1,1 +1,1 @@
-Made just for fun. [Play it here!](http://amschrader.github.io/2048/)
+Editted for for fun. [Play it here!](http://trianglegirl.github.io/2048/)
